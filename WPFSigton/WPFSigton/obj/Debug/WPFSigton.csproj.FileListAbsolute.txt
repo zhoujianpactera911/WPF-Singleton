@@ -1,0 +1,15 @@
+C:\Users\v-zhojia\source\repos\WPFSigton\WPFSigton\bin\Debug\WPFSigton.exe.config
+C:\Users\v-zhojia\source\repos\WPFSigton\WPFSigton\bin\Debug\WPFSigton.exe
+C:\Users\v-zhojia\source\repos\WPFSigton\WPFSigton\bin\Debug\WPFSigton.pdb
+C:\Users\v-zhojia\source\repos\WPFSigton\WPFSigton\obj\Debug\WPFSigton.csprojAssemblyReference.cache
+C:\Users\v-zhojia\source\repos\WPFSigton\WPFSigton\obj\Debug\MainWindow.g.cs
+C:\Users\v-zhojia\source\repos\WPFSigton\WPFSigton\obj\Debug\App.g.cs
+C:\Users\v-zhojia\source\repos\WPFSigton\WPFSigton\obj\Debug\WPFSigton_MarkupCompile.cache
+C:\Users\v-zhojia\source\repos\WPFSigton\WPFSigton\obj\Debug\WPFSigton_MarkupCompile.lref
+C:\Users\v-zhojia\source\repos\WPFSigton\WPFSigton\obj\Debug\MainWindow.baml
+C:\Users\v-zhojia\source\repos\WPFSigton\WPFSigton\obj\Debug\WPFSigton.g.resources
+C:\Users\v-zhojia\source\repos\WPFSigton\WPFSigton\obj\Debug\WPFSigton.Properties.Resources.resources
+C:\Users\v-zhojia\source\repos\WPFSigton\WPFSigton\obj\Debug\WPFSigton.csproj.GenerateResource.cache
+C:\Users\v-zhojia\source\repos\WPFSigton\WPFSigton\obj\Debug\WPFSigton.csproj.CoreCompileInputs.cache
+C:\Users\v-zhojia\source\repos\WPFSigton\WPFSigton\obj\Debug\WPFSigton.exe
+C:\Users\v-zhojia\source\repos\WPFSigton\WPFSigton\obj\Debug\WPFSigton.pdb
